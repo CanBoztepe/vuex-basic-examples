@@ -1,7 +1,8 @@
 # vuex-test
 
-> This is a very small and simple app to learn vuex.
+> A very small and simple app to learn basics of vuex.
 > It contains very basic examples of getters, actions, mutations and state logic.
+> Check src/app.vue & src/store/store.js for the vuex examples.
 
 ## Build Setup
 
