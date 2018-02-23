@@ -8,8 +8,15 @@
 ## Build Setup
 
 ``` bash
+# go to your desired directory and clone the project
+git clone https://github.com/Testy31/vuex-basic-examples
+
+# navigate inside the project folder
+cd vuex-basic-examples
+
 # install dependencies
 npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
+```
