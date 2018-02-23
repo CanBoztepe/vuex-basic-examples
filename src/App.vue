@@ -24,11 +24,14 @@ export default {
     return {};
   },
   methods: {
+    // "..." is called the spread operator. You need to install babel in your project to use actions like below.
     ...mapActions([
       'incCounter',
       'decCounter'
     ])
-
+    
+    // Below is the longer way of defining actions.
+    
     // action incCounter (with a parameter)
     // incCounter(amount) {
     //   this.$store.dispatch('incCounter', amount);
@@ -40,10 +43,13 @@ export default {
     // }
   },
   computed: {
+    // "..." is called the spread operator. You need to install babel in your project to use getters like below.
     ...mapGetters([
       'counter',
       'halfCounter'
     ])
+    
+    // Below is the longer way of defining getters.
 
     // getter counter
     // counter() {
