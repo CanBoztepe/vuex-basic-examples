@@ -24,7 +24,7 @@ export default {
     return {};
   },
   methods: {
-    // "..." is called the spread operator. You need to install babel in your project to use actions like below.
+    // "..." is called the spread operator. You might need to install babel in your project to use actions like below.
     ...mapActions([
       'incCounter',
       'decCounter'
@@ -43,7 +43,7 @@ export default {
     // }
   },
   computed: {
-    // "..." is called the spread operator. You need to install babel in your project to use getters like below.
+    // "..." is called the spread operator. You might need to install babel in your project to use getters like below.
     ...mapGetters([
       'counter',
       'halfCounter'
