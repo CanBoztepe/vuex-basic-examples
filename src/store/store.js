@@ -5,7 +5,7 @@ Vue.use(Vuex);
 
 export const store = new Vuex.Store({
 
-  // state can be used similar to regular data()
+  // state is where all the data is stored
   state: {
     counter: 10
   },
