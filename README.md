@@ -1,4 +1,4 @@
-# vuex-test
+# vuex-basic-examples (For Beginners)
 
 > A very small and simple app to learn basics of vuex, for beginners.
 > It contains very basic examples of getters, actions, mutations and state logic.
