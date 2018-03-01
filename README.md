@@ -1,11 +1,11 @@
 # vuex-basic-examples* (For Beginners)
 
-> A very small and simple app to learn basics of vuex.
-> It contains very basic examples of getters, actions, mutations and state logic.
+A very small and simple app to learn basics of vuex.
+It contains very basic examples of getters, actions, mutations and state logic.
 
-> Check src/app.vue <b>AND</b> src/store/store.js for the vuex examples.
+Check **src/app.vue** AND **src/store/store.js** for the vuex examples.
 
-> \**Originally made for testing*
+\**Originally made for testing*
 
 ## Screenshot
 ![vuex-basic-examples](/vuex-test.png)
