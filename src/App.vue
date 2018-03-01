@@ -30,7 +30,7 @@ export default {
       'decCounter'
     ])
     
-    // Below is the longer way of defining actions.
+    // Below is the previous (longer) way of defining actions.
     
     // action incCounter (with a parameter)
     // incCounter(amount) {
@@ -49,7 +49,7 @@ export default {
       'halfCounter'
     ])
     
-    // Below is the longer way of defining getters.
+    // Below is the previous (longer) way of defining getters.
 
     // getter counter
     // counter() {
