@@ -31,8 +31,6 @@ export const store = new Vuex.Store({
   getters: {
     counter: state => state.counter,
     halfCounter: state => {
-      // let halfCounter = state.counter / 2;
-      // return halfCounter;
       return state.counter / 2;
     }
   }
