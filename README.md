@@ -5,7 +5,7 @@ It contains very basic examples of getters, actions, mutations and state logic.
 
 Check **src/app.vue** AND **src/store/store.js** for the vuex examples.
 
-\**Originally made for testing*
+\**Originally made as a testing prototype*
 
 ## Screenshot
 ![vuex-basic-examples](/vuex-test.png)
