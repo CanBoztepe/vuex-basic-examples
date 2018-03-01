@@ -5,7 +5,7 @@
 
 > Check src/app.vue <b>AND</b> src/store/store.js for the vuex examples.
 
-> *Originally made for testing
+> *Originally made for testing*
 
 ## Screenshot
 ![vuex-basic-examples](/vuex-test.png)
