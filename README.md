@@ -14,7 +14,7 @@ Check **src/app.vue** AND **src/store/store.js** for the vuex examples.
 
 ``` bash
 # go to your desired directory and clone the project
-git clone https://github.com/Testy31/vuex-basic-examples
+git clone https://github.com/CanBoztepe/vuex-basic-examples
 
 # navigate inside the project folder
 cd vuex-basic-examples
